@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    height: 100%;
+}
+header{
+    height: 10vh;
+    background-color: rgb(219, 144, 4);
+}
+/*estilos de los botones */
+#border{
+    background-color: black;
+    border-radius: 45px;
+    border: 3px solid black;
+    padding: 3px;
+}
+#border2{
+    background-color: black;
+    border-radius: 45px;
+    border: 5px solid black;
+    padding: 4px;
+}
+#listaheader{
+    list-style-type: none;
+    text-decoration: none;
+    margin-right: 5%;
+}
+/*Mainnnnnnn*/
+main{
+    height: 83vh;
+}
+section{
+    height: 100%;
+}
+#autonaranja{
+    padding: 10%;
+    padding-top: 2%
+}
+/*acomodamos la estrucctura de las imagenes de los autos*/
+#autos{
+    padding-top: 11%;
+    padding-bottom: 5%; 
+}
+#titulosautos{
+    padding-bottom: 5%;
+    color: rgb(219, 144, 4);
+}
+#pcolor{
+    font-size: 1.1rem;
+    color: rgb(219, 144, 4);
+}/* arreglos para la pagina de informacion*/
+#autoblanco{
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 2%;
+}
+#pinfo{
+    padding-top: 5%;
+    color:  rgb(219, 144, 4);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pinfo2{
+    padding-top: 16%;
+    padding-left: 5%;
+    font-size: 1.7rem;
+    color:  rgb(219, 144, 4);
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*arreglos para la pagina de img auto rojo*/
+#imgcamioneta{
+    padding: 20%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+#p-rojo{
+    padding-top: 5%;
+    font-size: 1.5rem;
+    color:  rgb(219, 144, 4);
+}
+/*arreglos para la pagina de img auto azul*/
+#imgnegro{
+    padding: 16%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+#p-azul{
+    padding-top: 9%;
+    font-size: 1.5rem;
+    color:  rgb(219, 144, 4);
+}
+/*arreglos para la pagina de img auto verde*/
+#imgaudi{
+    padding: 22%;
+    padding-top: 8%;
+    padding-bottom: 0%;
+}
+#p-verde{
+    padding-top:5%;
+    font-size: 1.5rem;
+    color:  rgb(219, 144, 4);
+}
+/*arreglos para la pagina de img auto blanco*/
+#imgescarabajo{
+    padding: 25%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+}
+#p-blanco{
+    padding-top: 5%;
+    font-size: 1.5rem;
+    color:  rgb(219, 144, 4);
+}
+#cont-icon{
+    padding-top: 2%;
+    padding-left: 50%;
+}
+#border3{
+    background-color:  rgb(219, 144, 4);
+    border-radius: 45px;
+    border: 3px solid black;
+    padding: 3px;
+    color: black;
+}
+/*FOOTERRRR*/
+footer{
+    height: vh;
+    background-color: rgb(219, 144, 4);
+}
+/*sacamos los estilos y colocamos la tipografia*/
+#listafooter{
+    list-style-type: none;
+    text-decoration: none;
+    background-color:  rgb(219, 144, 4);
+    
+}
+#listafooter2{
+    padding-top: 1%;
+    list-style-type: none;
+    text-decoration: none;
+    background-color:  rgb(219, 144, 4);  
+}
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
